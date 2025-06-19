@@ -1,0 +1,20 @@
+.cliente-form input {
+  margin: 5px;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.cliente-form button {
+  margin: 5px;
+  padding: 8px 16px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cliente-form button:hover {
+  background-color: #2980b9;
+}
